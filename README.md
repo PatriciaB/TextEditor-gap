@@ -1,4 +1,6 @@
-# 📝 Text Editor – System Software Project (Gap Buffer Version) A Java-based text editor developed for the System Software course at JKU. This version builds on the provided prototype and retains the gap buffer data structure for text management, while adding support for rich text formatting and enhanced user interaction.
+# 📝 Text Editor – System Software Project (Gap Buffer Version) 
+
+A Java-based text editor developed for the System Software course at JKU. This version builds on the provided prototype and retains the gap buffer data structure for text management, while adding support for rich text formatting and enhanced user interaction.
 
 Key Features Based on gap buffer for efficient text editing
 
